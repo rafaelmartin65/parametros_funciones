@@ -4,7 +4,7 @@ fn main() {
     let y = 2;
     say_the_sum(x, y);
     say_a_number(x as i32);
-    println!("Hello, world!");
+    println!("Hello, world! new message");
 }
 
 fn say_hello () {
